@@ -83,7 +83,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Nimesh Official API | [Nimesh Official](https://github.com/nimesh-official) | [Link](https://api.nimeshofficial.xyz) | `Aktif` | API Collection | `APIKEY` |
 | VELIXS R-API | [Ilsya](https://github.com/ilsyaa) | [Link](https://velixs.com/rapi) | `Aktif` | API Collection | `APIKEY` |
 | ZonerAPIs | [TegarPriyadi](https://github.com/TegarPriyadi) | [Link](https://api.zonerweb.biz.id/) | `Aktif` | API Collection | `APIKEY` |
-
+| Hacker01API | [simplehacker01](https://github.com/simplehacker01) | [Link](https://zerodhamax.com/) | `Aktif` | API Collection | `APIKEY` |
 ## :fire: Tambahan
 
 Jika ingin menambahkan List API nya langsung aja pull request Arigatou :)
